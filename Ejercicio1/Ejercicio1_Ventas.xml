@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ventas SYSTEM "VentasReglas.dtd">
+<Listaventas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="Reglas.xsd">
+        <venta>
+            <importe>2000</importe>
+            <comprador>Victor Manuel</comprador>
+            <vendedor>Mi Casita</vendedor>
+            <codigofactura>A1</codigofactura>
+        </venta>
+        <venta>
+            <importe>900</importe>
+            <comprador>Laura Marin</comprador>
+            <vendedor>Mi Casita</vendedor>
+            <fecha>06-10-1981</fecha>
+            <codigofactura>A2</codigofactura>
+        </venta>
+</Listaventas>

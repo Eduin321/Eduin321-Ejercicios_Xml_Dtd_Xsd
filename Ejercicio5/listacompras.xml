@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listacompras SYSTEM "Reglas.dtd">
+
+<listacompras>
+    <venta>
+        <ventaacredito>
+            <fechafinpago>31-12-2022</fechafinpago>
+            <cantidad>1000</cantidad>
+        </ventaacredito>
+    </venta>
+    <venta>
+        <ventainmediata>
+            <cantidad>50</cantidad>
+            <divisa>dolares</divisa>
+        </ventainmediata>
+    </venta>
+    <venta>
+        <ventaacredito>
+            <cantidad>100</cantidad>
+        </ventaacredito>
+    </venta>
+</listacompras>

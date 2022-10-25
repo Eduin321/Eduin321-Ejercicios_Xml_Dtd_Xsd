@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pedidos SYSTEM "pedidosreglas.dtd">
+<pedidos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="Inforeglas.xsd">
+    <pedido>
+        <numeroserie>15455</numeroserie>
+        <cantidad>8</cantidad>
+        <peso>900</peso>
+    </pedido>
+    <pedido>
+        <numeroserie>161818</numeroserie>
+        <cantidad>20</cantidad>
+        <peso>100</peso>
+    </pedido>
+</pedidos>

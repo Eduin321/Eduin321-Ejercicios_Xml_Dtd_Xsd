@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listacursos SYSTEM "reglas.dtd">
+
+
+<listacursos>
+    <curso>
+        <alumno>
+            <dni>1234</dni>
+            <nombre>Pedro</nombre>
+            <ap1>Mejia</ap1>
+            <listaasignaturas>
+                <asignatura codigo="MED69">
+                    <nombre>ESPAÑOL</nombre>
+                    <profesor>
+                        <nrp>150</nrp>
+                        <nombre>Victor</nombre>
+                        <ap1>Perez</ap1>
+                    </profesor>
+                </asignatura>
+            </listaasignaturas>
+        </alumno>
+    </curso>
+</listacursos>
